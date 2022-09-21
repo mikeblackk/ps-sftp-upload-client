@@ -76,4 +76,8 @@ catch
 {
 Write-Host "Error: $($_.Exception.Message)"
 exit 1
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b14a0c54d2e0919809c3fa66f753e9d222d336ac
