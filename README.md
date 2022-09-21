@@ -1,6 +1,6 @@
 <h1><b>Powershell SFTP Client</b></h1>
 
-Upload the latest file in a directory to a SFTP server.
+A PowerShell script that uses WinSCP object library to enable uploading of the latest file in a directory to a SFTP server.
 
 <h2>Guide</h2>
 
